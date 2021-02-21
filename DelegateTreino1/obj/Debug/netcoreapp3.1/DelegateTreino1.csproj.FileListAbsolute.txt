@@ -1,0 +1,13 @@
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.exe
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.deps.json
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.runtimeconfig.json
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.runtimeconfig.dev.json
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.dll
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\bin\Debug\netcoreapp3.1\DelegateTreino1.pdb
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.csprojAssemblyReference.cache
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.AssemblyInfo.cs
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.dll
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.pdb
+C:\Users\amora\source\repos\DelegateTreino1\DelegateTreino1\obj\Debug\netcoreapp3.1\DelegateTreino1.genruntimeconfig.cache
