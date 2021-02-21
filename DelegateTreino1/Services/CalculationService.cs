@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace DelegateTreino1.Services {
-    class CalculationService {
-        public static double Max(double x, double y) {
-            return (x > y) ? x : y;
-        } // MAIOR
-        public static double Sum(double x, double y) {
-            return x + y;
-        } // SOMA
-        public static double Square(double x) {
-            return x * x;
-        } // QUADRADO 
+        class CalculationService {
+            public static void ShowMax(double x, double y) {
+                double max = (x > y) ? x : y;
+                Console.WriteLine(max);
+            }
+            public static void ShowSum(double x, double y) {
+                double sum = x + y;
+                Console.WriteLine(sum);
+            }
+        }
     }
-}

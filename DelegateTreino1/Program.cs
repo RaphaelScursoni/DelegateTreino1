@@ -3,7 +3,7 @@ using System;
 
 namespace DelegateTreino1 {
 
-    delegate double BinaryNumericOpetation(double n1, double n2);
+    delegate void BinaryNumericOpetation(double n1, double n2);
     
     class Program {
         static void Main(string[] args) {
@@ -11,10 +11,10 @@ namespace DelegateTreino1 {
             double a = 10;
             double b = 12;
 
-            BinaryNumericOpetation op = CalculationService.Sum;
+            BinaryNumericOpetation op = CalculationService.ShowSum;
+            op += CalculationService.ShowMax;
 
-            double result = op(a, b);
-            Console.WriteLine(result);
+            op(a, b);
 
 
         }
